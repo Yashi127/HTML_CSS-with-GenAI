@@ -19,7 +19,9 @@ Detailed product cards with descriptions, specifications, prices, and availabili
 
 Clean navigation menu for smooth browsing.
 
+
 🧠 GenAI-Powered Voice Assistant
+
 
 Integrated conversational assistant using ElevenLabs’ natural voice engine.
 
@@ -29,7 +31,9 @@ Responds to product-related queries and guides users contextually.
 
 Mimics real-time conversation, enhancing accessibility and user engagement.
 
+
 🤖 GenAI Assistant Use Cases:
+
 
 The voice assistant allows users to:
 
@@ -45,7 +49,9 @@ Get personalized suggestions through conversation
 
 This builds a hands-free, human-like interaction model that redefines how users explore e-commerce content.
 
+
 🎯 Use Case Applications:
+
 
 Smart Retail Demos: Demonstrate AI-powered shopping interfaces.
 
@@ -55,7 +61,9 @@ AI Showcases: Integrate as part of GenAI/Voice UI hackathons and demos.
 
 Conversational UI Prototypes: Build foundations for next-gen user interfaces.
 
+
 📌 Future Enhancements:
+
 
 Add real-time product search via voice commands.
 
@@ -65,9 +73,13 @@ Support for multilingual voice interactions.
 
 Personalization using user behavior and preferences.
 
+
 🗂️ Project Structure
 
 product-catalog-voice-ai/
+
 ->index.html
+
 ->styles (inline)
+
 ->GenAI Embed
