@@ -1,5 +1,6 @@
 # HTML_CSS-with-GenAI
- https://yashi127.github.io/HTML_CSS-with-GenAI/
+https://yashi127.github.io/HTML_CSS-with-GenAI/
+
 🛍️ Product Catalog with Conversational GenAI Assistant
 
 Overview:
